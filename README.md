@@ -48,7 +48,6 @@ Indhumathi
 #PowerBI #Dashboard #DataAnalytics #MentalHealth #SocialMedia #Excel #CSV #DataVisualization #power-bi #Data-Visualization #Social-Media
 
 ⭐ Feedback
+If any finding on this project insightful, please share 
 
-
-milar columns to analyze personal data.
 
