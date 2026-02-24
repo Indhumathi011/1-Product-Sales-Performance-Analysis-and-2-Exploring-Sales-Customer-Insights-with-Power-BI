@@ -15,3 +15,4 @@ Analyzed sales, profit, quantity, and profit margin across different channels, w
 🎥 Sharing an interactive view of the dashboard below.
 
 Tools Used: Power BI | Power Query | DAX | Data Modeling.
+<img width="698" height="402" alt="image" src="https://github.com/user-attachments/assets/310f1b6a-834d-4d53-8d95-b61266ecfb4f" />
